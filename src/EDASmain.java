@@ -184,6 +184,10 @@ public class EDASmain {
             matriksAwal = spk.tambahAlternatif(matriksAwal, baruA);
                 break;
 
+            case 0:
+            System.out.println("===TERIMAKASIH===");
+            break;
+
             default:
             System.out.println("MASUKAN SALAH!");
                 break;
